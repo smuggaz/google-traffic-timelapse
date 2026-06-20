@@ -1,0 +1,13 @@
+{
+  "name": "Newgale Traffic Monitor",
+  "image": "mcr.microsoft.com/playwright/python:v1.50.0-noble",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-python.python"
+      ]
+    }
+  },
+  "postCreateCommand": "pip install -r requirements.txt",
+  "remoteUser": "root"
+}
