@@ -1,4 +1,4 @@
-# Newgale Traffic Monitor - GitHub Codespaces
+# Google Traffic Monitor - GitHub Codespaces
 
 ## How to Use
 
